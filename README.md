@@ -10,6 +10,8 @@ sudo apt update
 
 sudo apt install python3
 
+git clone https://github.com/n4v4n0x00/Port_Scan.git
+
 ## Usage
 
 To use my project, run the following command:
