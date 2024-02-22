@@ -7,6 +7,7 @@ Port_Scan
 ## Installation
 
 sudo apt update
+
 sudo apt install python3
 
 ## Usage
