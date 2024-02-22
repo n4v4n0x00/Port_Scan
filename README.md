@@ -12,6 +12,11 @@ sudo apt install python3
 
 git clone https://github.com/n4v4n0x00/Port_Scan.git
 
+##How to run
+
+python3 Port_Scan.py Example.com 1 100 
+
+
 ## Usage
 
 To use my project, run the following command:
